@@ -48,3 +48,6 @@ The project focuses on transforming sales data into meaningful business insights
 
 - `Furniture Sales Analysis.xlsx` — Complete Excel dashboard and analysis.
 - `README.md` — Project documentation.
+## 📷 Dashboard Preview
+
+![Furniture Sales Dashboard](Dashboard.png)
